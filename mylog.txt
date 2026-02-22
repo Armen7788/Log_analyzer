@@ -1,5 +1,0 @@
-INFO: system started
-ERROR: disk problem
-WARNING: low memory
-ERROR: connection failed
-INFO: done
