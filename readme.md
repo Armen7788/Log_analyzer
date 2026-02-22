@@ -29,6 +29,7 @@ git clone https://github.com/Armen7788/test-work.git
 cd test-work
 chmod +x log_analyzer.sh
 
+```bash
 
 ##▶️ Usage
 
