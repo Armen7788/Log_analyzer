@@ -58,6 +58,6 @@ network error
 
 ## 👨‍💻 Author
 ```bash
-Edooo
+Armen Gevorgyan
 GitHub: https://github.com/Armen7788
 ```
