@@ -30,18 +30,20 @@ cd test-work
 chmod +x log_analyzer.sh
 
 ```
+## ▶️ Usage
 
-##▶️ Usage
-
+```bash
 Analyze file
 ./log_analyzer.sh mylog.txt
-
 Analyze directory
 sudo ./log_analyzer.sh /var/log
+
+```
 
 ---
 
 ##🖥 Example Output
+```bash
 ===== LOG ANALYZER =====
 
 Total ERROR: 5
@@ -51,9 +53,12 @@ Last 5 errors:
 disk error
 network error
 
+```
+
 ---
 
 ##👨‍💻 Author
-
+```bash
 Armen Gevorgyan
 GitHub: https://github.com/Armen7788
+```
