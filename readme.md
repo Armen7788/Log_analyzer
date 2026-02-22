@@ -28,3 +28,31 @@ Bash script for analyzing Linux log files and directories
 git clone https://github.com/Armen7788/test-work.git
 cd test-work
 chmod +x log_analyzer.sh
+
+
+##▶️ Usage
+
+Analyze file
+./log_analyzer.sh mylog.txt
+
+Analyze directory
+sudo ./log_analyzer.sh /var/log
+
+---
+
+##🖥 Example Output
+===== LOG ANALYZER =====
+
+Total ERROR: 5
+Total WARNING: 2
+
+Last 5 errors:
+disk error
+network error
+
+---
+
+##👨‍💻 Author
+
+Armen Gevorgyan
+GitHub: https://github.com/Armen7788
