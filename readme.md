@@ -39,10 +39,9 @@ Analyze directory
 sudo ./log_analyzer.sh /var/log
 
 ```
-
 ---
 
-##🖥 Example Output
+## 🖥 Example Output
 ```bash
 ===== LOG ANALYZER =====
 
@@ -57,7 +56,7 @@ network error
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 ```bash
 Armen Gevorgyan
 GitHub: https://github.com/Armen7788
